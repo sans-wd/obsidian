@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "2486f309fb9aab2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b776fb8a768bebda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a6a0ed2bfef0b2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bp/14.1 Principles of temperature measurement.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14.1 Principles of temperature measurement"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88175e3027f8d9cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a358bb4262d31c7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8fdeec083c02530",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "fb584ee195ecd2a5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "27fa1b589bed09c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90abbae12f5890e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "92f1786adfcaa906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4fcf08a1a3188f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Добро пожаловать"
+            }
+          },
+          {
+            "id": "f857941e151b8975",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Добро пожаловать"
+            }
+          },
+          {
+            "id": "2d2c08badddb7ca9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "7155e1717625b17c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "bp/Contents.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Contents"
+            }
+          },
+          {
+            "id": "a9ac0bce8fd0905b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4a6a0ed2bfef0b2a",
+  "lastOpenFiles": [
+    "bp/{FD028AC6-4225-4A19-857B-5123B86FB86B}.png",
+    "bp/14.1 Principles of temperature measurement.md",
+    "bp/Contents.md",
+    "Pasted image 20241128021033.png",
+    "bp/Без названия.md",
+    "создайте ссылку.md",
+    "bp",
+    "1-rough notes",
+    "2024-11-28.md"
+  ]
+}
